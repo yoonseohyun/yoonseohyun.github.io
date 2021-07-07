@@ -11,7 +11,7 @@
 저의 [깃허브 페이지](https://github.com/yoonseohyun/yoonseohyun.github.io)와 [깃허브 블로그](https://yoonseohyun.github.io/)입니다.
 
 
-이 [영상](https://youtu.be/kMEb_BzyUqk)을 참고해서 글을 작성을 연습 중 입니다.
+이 [영상](https://youtu.be/kMEb_BzyUqk)을 참고해서 연습 중 입니다.
 
 
 |이름|이메일|
