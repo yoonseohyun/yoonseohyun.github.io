@@ -9,7 +9,7 @@
 
 ~~어려워서 못함.~~
 
-<img src=/click.mp4>
+![git](/gigigit.JPG)
 
 ---
 
