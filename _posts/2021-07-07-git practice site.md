@@ -10,7 +10,7 @@
 
 <h5>위 사이트에서 연습할 수 있는 GIT 명령어</h5>
 
- `commit`
+ ``commit``
  `branch`
  `checkout`
  `cherry-pick`
