@@ -9,7 +9,7 @@
 
 ~~어려워서 못함.~~
 
-![움짤](/click.mp4)
+<img src=/click.mp4>
 
 ---
 
