@@ -1,4 +1,4 @@
-# **GIT branch와 명령어** 연습 사이트
+# GIT branch와 명령어 연습 사이트 추천
 
 [https://learngitbranching.js.org/?locale=ko](https://learngitbranching.js.org/?locale=ko)
 
