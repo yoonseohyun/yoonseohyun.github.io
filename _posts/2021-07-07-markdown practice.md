@@ -1,11 +1,12 @@
 # 안녕하세요:) 저는 윤서현입니다.
-# 어제 처음 깃허브 블로그를 만들어서 markdown 사용법을 연습하고 있습니다.
 
 ---
 
 ![git image](https://media.vlpt.us/images/harriet99/post/56204a58-bc0a-485d-9fbd-8a164929235d/asasf.png)
 
 ---
+
+어제 처음 깃허브 블로그를 만들어서 **markdown** 사용법을 연습하고 있습니다.
 저의 [깃허브 페이지](https://github.com/yoonseohyun/yoonseohyun.github.io)와 [깃허브 블로그](https://yoonseohyun.github.io/)입니다.
 
 
