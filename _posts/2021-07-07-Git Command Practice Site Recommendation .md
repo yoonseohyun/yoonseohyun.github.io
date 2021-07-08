@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3.GIT 연습 사이트 추천"
+title: "3. GIT 연습 사이트 추천"
 ---
 
 # GIT branch와 명령어 연습 사이트 추천
