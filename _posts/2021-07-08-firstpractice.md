@@ -10,7 +10,9 @@ title: "5. GitHub 블로그에 Category 만들기"
 
 ---
 
-처음에 저 사이트들을 참고해도 해결 되지 않아서 ~~늪에 빠지고 있었는데~~ `_data/archive.yml` 에 들어가보니 
+처음에 저 사이트들을 참고해도 해결 되지 않아서 ~~늪에 빠지고 있었는데~~ 
+
+`_data/archive.yml` 에 들어가보니 
 
 ```
 - type: dates
