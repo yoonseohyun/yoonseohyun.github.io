@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [백준 문제풀이]
+category: [메롱]
 title: "카테고리 만드는 연습중"
 ---
 
