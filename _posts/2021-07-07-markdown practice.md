@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2. 유튜브 영상보고 markdown 실습하기"
+title: "3. 유튜브 영상보고 markdown 실습하기"
 ---
 
 # 안녕하세요:) 저는 윤서현입니다.
