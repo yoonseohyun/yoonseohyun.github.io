@@ -25,6 +25,6 @@ title: "5. GitHub 블로그에 Category 만들기"
   title: Tags
   url: /tags/
 ```
-이렇게 **categories**들이 주석 처리가 되어있었더라구요. 
+이렇게  **categories**들이 주석 처리가 되어있었더라구요. 
 
 앞에 ~~#~~ 들을 지우고, 위 블로그 들을 참고하니 카테고리가 생성되었습니다.
